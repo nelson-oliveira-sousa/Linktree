@@ -7,7 +7,7 @@ const socialLinks = [
 ];
 const profileData = {
   userName: "Nelson",
-  photoLink: "https://www.facebook.com/photo/?fbid=1457439324301430&set=a.205582812820427"
+  photoLink: "https://instagram.fudi1-2.fna.fbcdn.net/v/t51.2885-19/15803282_1838137076467332_3306905486825095168_a.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fudi1-2.fna.fbcdn.net&_nc_cat=100&_nc_ohc=Ne9ZCovxr1YAX8XkM4w&tn=pSpiXGflem2lNrRT&edm=ACWDqb8BAAAA&ccb=7-5&oh=00_AfAxMM0luyrPmHVJVjjl19FsntDvICvRE8dvhDriaGNzLQ&oe=63D04D62&_nc_sid=1527a3"
 };
 
 const themeData = {
@@ -33,6 +33,31 @@ const themeData = {
   },
 };
 const linkData = [
+  {
+    id: 1,
+    link: "https://github.com/nelson-oliveira-sousa",
+    name: "GitHub",
+  },
+  {
+    id: 2,
+    link: "https://www.linkedin.com/in/nelson-de-oliveira-sousa-4721aa102/",
+    name: "Linkedin",
+  },
+  {
+    id: 3,
+    link: "https://wa.me/551499847984",
+    name: "Whatsapp",
+  },
+  {
+    id: 4,
+    link: "https://www.instagram.com/n.oliveirasousa/",
+    name: "Instagram",
+  },
+  {
+    id: 5,
+    link: "https://www.facebook.com/nelson.deoliveirasousa/",
+    name: "Facebook",
+  },
 ];
 
 export { socialLinks, profileData, linkData, themeData };
